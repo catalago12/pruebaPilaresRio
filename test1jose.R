@@ -1,0 +1,1 @@
+max(Hoja_de_cálculo_sin_título$calificacion)
